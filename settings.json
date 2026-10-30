@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "StrikeViper.aternos.me",
-    "port": 48205,
+    "ip": "LManifesto.aternos.me",
+    "port": "24752",
     "version": "",
     "try-creative": false
   },
